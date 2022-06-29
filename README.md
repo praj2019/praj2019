@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @praj2019
-- 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning frontend and bacend development.
+- 👀 I’m interested in software engineering and building a tech company.
+- 🌱 I’m currently learning backend development.
 - 💞️ I’m looking to collaborate on ReactJS projects.
 - 📫 How to reach me - email: paulfabian768@gmail.com
 
